@@ -70,7 +70,7 @@ This repository also contains:
 ## 🛠 How to Use
 1. Clone the repository:  
    ```
-   git clone https://github.com/<your-username>/IoT-Projects.git
+   git clone https://github.com/samarasimhapeyala>/IoT-Projects.git
    ```
 2. Open the respective project folder.
 3. Upload the provided code to your NodeMCU/Arduino using the **Arduino IDE**.
